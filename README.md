@@ -1,4 +1,4 @@
-# digital-privacy-microlesson
+
 # Digital Privacy: A Right and a Responsibility
 
 This repository contains the exported content of my WordPress digital micro-lesson:
